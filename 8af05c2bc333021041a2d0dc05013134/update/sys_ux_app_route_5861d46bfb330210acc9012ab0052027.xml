@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="CM/Tech Pubs Workspace App Config">5861d46b903302104c73cf7ba6c83e33</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>List</name>
+        <optional_parameters>listId,configId,tinyId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>list</route_type>
+        <screen_type display_value="List">5461d46bd43302105160fea0c5b4a728</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 12:37:50</sys_created_on>
+        <sys_id>5861d46bfb330210acc9012ab0052027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="CM/Tech Pubs" source="x_1509184_cm_tec_0">8af05c2bc333021041a2d0dc05013134</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM/Tech Pubs">8af05c2bc333021041a2d0dc05013134</sys_scope>
+        <sys_update_name>sys_ux_app_route_5861d46bfb330210acc9012ab0052027</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 12:37:50</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5861d46bfb330210acc9012ab0052027"/>
+</record_update>

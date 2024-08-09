@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="CM/Tech Pubs Workspace">5861d46b85330210557b4c35961b852d</dashboard>
+        <experience display_value="CM/Tech Pubs Workspace">9461d46bec33021063e2d87e1c842034</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 12:37:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5461d46b8c330210c4ff17b9b515212b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="CM/Tech Pubs" source="x_1509184_cm_tec_0">8af05c2bc333021041a2d0dc05013134</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM/Tech Pubs">8af05c2bc333021041a2d0dc05013134</sys_scope>
+        <sys_update_name>par_dashboard_visibility_5461d46b8c330210c4ff17b9b515212b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 12:37:48</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

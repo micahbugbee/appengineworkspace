@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Dashboard Library</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 12:37:50</sys_created_on>
+        <sys_id>5461d46bc5330210546b030ac0c9ef1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Library</sys_name>
+        <sys_package display_value="CM/Tech Pubs" source="x_1509184_cm_tec_0">8af05c2bc333021041a2d0dc05013134</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CM/Tech Pubs">8af05c2bc333021041a2d0dc05013134</sys_scope>
+        <sys_update_name>sys_ux_screen_type_5461d46bc5330210546b030ac0c9ef1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 12:37:50</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=5461d46bc5330210546b030ac0c9ef1f"/>
+</record_update>
